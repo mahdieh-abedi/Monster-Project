@@ -1,0 +1,14 @@
+.monsterPage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.monsterProfile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    padding: 50px;
+    border-radius: 50px; 
+}
